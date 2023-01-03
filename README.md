@@ -1,7 +1,5 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30"> Hello there, this is <a href="https://www.linkedin.com/in/shafeeqonline/">Shafeeq Ur Rahman</a>!</h1>
 
-<img align="right" src="https://user-images.githubusercontent.com/4970624/102078863-a7889d80-3e31-11eb-917c-80b590fd3a66.png" height="350" width="350" />
-
 <p>&nbsp;</p>
 
 ### It's very nice to meet you 🙌
